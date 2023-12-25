@@ -30,11 +30,11 @@
 </p>
 
 <p align="center" dir="auto">
-    <a href="https://facebook.com/nhoc.hiepz">
+    <a href="https://facebook.com/nhoc.hiepz" target="_blank">
         Facebook
     </a>
     <span> · </span>
-    <a href="https://discord.gg/EcEBJFxgck">
+    <a href="https://discord.gg/EcEBJFxgck" target="_blank">
         Discord
     </a>
 </p>
@@ -56,8 +56,8 @@
 <h1>My Managed Website:</h1>
 <ul>
     <li>
-        <a href="https://zoneshop.shop/">zoneshop.shop</a>
-        Website support affiliate tiktok, shopee,... 
+        <a href="https://zoneshop.shop/" target="_blank">zoneshop.shop</a>
+        Website support affiliate tiktok, shopee,...
     </li>
 </ul>
 
@@ -65,4 +65,3 @@
 <ul>
     <li> I'm trying</li>
 </ul>
-
