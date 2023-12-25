@@ -47,7 +47,7 @@
                 alt="hhiepz" width="100%" />
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8&hide_progress=false&size_weight=1"
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhiepz&layout=compact&langs_count=8&hide_progress=false&size_weight=1"
                 alt="hhiepz" width="100%" />
         </td>
     </tr>
