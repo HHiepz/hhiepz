@@ -47,7 +47,7 @@
                 alt="hhiepz" width="100%" />
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhiepz&theme=radical&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng"
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhiepz&theme=radical&layout=compact&hide=CSS&langs_count=10"
                 alt="hhiepz" width="100%" />
         </td>
     </tr>
