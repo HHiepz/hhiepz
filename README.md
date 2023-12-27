@@ -30,11 +30,11 @@
 </p>
 
 <p align="center" dir="auto">
-    <a href="https://facebook.com/nhoc.hiepz" target="_blank">
+    <a href="https://facebook.com/nhoc.hiepz">
         Facebook
     </a>
     <span> · </span>
-    <a href="https://discord.gg/EcEBJFxgck" target="_blank">
+    <a href="https://discord.gg/EcEBJFxgck">
         Discord
     </a>
 </p>
@@ -56,8 +56,12 @@
 <h1>My Managed Website:</h1>
 <ul>
     <li>
-        <a href="https://zoneshop.shop/" target="_blank">zoneshop.shop</a>
+        <a href="https://zoneshop.shop/">zoneshop.shop</a>
         Website support affiliate tiktok, shopee,...
+    </li>
+    <li>
+        <a href="https://ayo.so/hhiepz">ayo.so/HHiepz</a>
+        A website shares information that I find good, and I want to share.
     </li>
 </ul>
 
