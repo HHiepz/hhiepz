@@ -34,7 +34,7 @@
         Facebook
     </a>
     <span> · </span>
-    <a href="https://discord.gg/EcEBJFxgck">
+    <a href="https://discord.gg/UVjrmx2NSx">
         Discord
     </a>
 </p>
@@ -56,12 +56,8 @@
 <h1>My Managed Website:</h1>
 <ul>
     <li>
-        <a href="https://zoneshop.shop/">zoneshop.shop</a>
-        Website support affiliate tiktok, shopee,...
-    </li>
-    <li>
-        <a href="https://ayo.so/hhiepz">ayo.so/HHiepz</a>
-        A website shares information that I find good, and I want to share.
+        <a href="https://card2k.com/">card2k.com</a>
+        The website exchanges game and phone cards from network providers such as VIETTEL, VINA, ZING, GARENA, etc., for cash.
     </li>
 </ul>
 
