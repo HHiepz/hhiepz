@@ -3,4 +3,4 @@ My name is Huu Hiep. I am a small programmer in a big world. I enjoy automating 
 ## How To Contact Me:
 <img src="./images/facebook.png" width="15px" height="15px" /> [Facebook](https://facebook.com/nhoc.hiepz/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=codeSTACKr&hide=contribs,prs,issues)
+![Huu Hiep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hhiepz&show_icons=true&theme=codeSTACKr&hide=contribs,prs,issues)
