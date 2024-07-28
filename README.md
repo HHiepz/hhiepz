@@ -6,5 +6,5 @@ My name is Huu Hiep. I am a small programmer in a big world. I enjoy automating 
 ![Huu Hiep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hhiepz&show_icons=true&theme=chartreuse-dark&hide=contribs,prs,issues)
 
 <a href="https://github.com/HHiepz/Optimal-Assets-Folder-Management/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hhiepz&repo=Font-Awesome-Pro-5.15.4&theme=shades-of-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hhiepz&repo=Optimal-Assets-Folder-Management&theme=shades-of-purple" />
 </a>    
