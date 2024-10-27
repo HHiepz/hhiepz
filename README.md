@@ -9,5 +9,5 @@ My name is Huu Hiep. I am a small programmer in a big world. I enjoy automating 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hhiepz&repo=Optimal-Assets-Folder-Management&theme=github_dark" />
 </a>    
 <a href="https://github.com/HHiepz/cv_doi-the-cao/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hhiepz&repo=Website-doi-the-cao&theme=codeSTACKr" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hhiepz&repo=cv_doi-the-cao&theme=codeSTACKr" />
 </a>    
