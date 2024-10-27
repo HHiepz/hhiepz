@@ -5,12 +5,6 @@ My name is Huu Hiep. I am a small programmer in a big world. I enjoy automating 
 
 ![Huu Hiep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hhiepz&show_icons=true&theme=chartreuse-dark&hide=contribs,prs,issues)
 
-<a href="https://github.com/HHiepz/Optimal-Assets-Folder-Management/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hhiepz&repo=Optimal-Assets-Folder-Management&theme=github_dark" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hhiepz&repo=PHP-Card-Exchange&theme=algolia)](https://github.com/HHiepz/PHP-Card-Exchange)
 
-<a href="https://github.com/HHiepz/PHP-Card-Exchange/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hhiepz&repo=PHP-Card-Exchange&theme=algolia" />
-</a>    
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhiepz&repo=PHP-Card-Exchange&theme=dark&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hhiepz&repo=Optimal-Assets-Folder-Management&theme=github_dark)](https://github.com/HHiepz/Optimal-Assets-Folder-Management)
