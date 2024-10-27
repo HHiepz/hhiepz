@@ -10,5 +10,5 @@ My name is Huu Hiep. I am a small programmer in a big world. I enjoy automating 
 </a>
 
 <a href="https://github.com/HHiepz/PHP-Card-Exchange/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hhiepz&repo=PHP-Card-Exchange&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hhiepz&repo=PHP-Card-Exchange&theme=github_dark" />
 </a>    
