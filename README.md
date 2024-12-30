@@ -5,6 +5,7 @@ My name is Huu Hiep. I am a small programmer in a big world. I enjoy automating 
   <summary>🌐Socials</summary>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hhiepz/)
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nhoc.hiepz)
 </details>
 
 
