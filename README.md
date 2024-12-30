@@ -4,8 +4,11 @@ My name is Huu Hiep. I am a small programmer in a big world. I enjoy automating 
 ## 📖 How To Contact Me:
 <img src="./images/facebook.png" width="15px" height="15px" />  [Facebook](https://facebook.com/nhoc.hiepz/)
 
-![hhiepz github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=hhiepz)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hhiepz&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hhiepz&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hhiepz&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hhiepz&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hhiepz&theme=nord_dark&utcOffset=7)
 
 ![Huu Hiep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hhiepz&show_icons=true&theme=chartreuse-dark&hide=contribs,prs,issues)
 
