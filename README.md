@@ -18,17 +18,3 @@ My name is Huu Hiep. I am a small programmer in a big world. I enjoy automating 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hhiepz&theme=dark)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hhiepz&theme=dark&utcOffset=7)
 </details>
-
-<details open>
-  <summary>💻My Projects</summary>
-
-  <div style="display: flex; justify-content: space-around;">
-    <a href="https://github.com/HHiepz/PHP-Card-Exchange">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hhiepz&repo=PHP-Card-Exchange&theme=algolia" />
-    </a>
-    <a href="https://github.com/HHiepz/Optimal-Assets-Folder-Management">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hhiepz&repo=Optimal-Assets-Folder-Management&theme=github_dark" />
-    </a>
-  </div>
-</details>
-
