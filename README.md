@@ -12,7 +12,7 @@ My name is Huu Hiep. I am a small programmer in a big world. I enjoy automating 
 <details open>
   <summary>📊GitHub Stats</summary>
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hhiepz&theme=dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hhiepz)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hhiepz&theme=dark)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hhiepz&theme=dark)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hhiepz&theme=dark)
