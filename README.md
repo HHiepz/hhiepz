@@ -12,11 +12,11 @@ My name is Huu Hiep. I am a small programmer in a big world. I enjoy automating 
 <details open>
   <summary>📊GitHub Stats</summary>
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hhiepz&theme=nord_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hhiepz&theme=nord_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hhiepz&theme=nord_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hhiepz&theme=nord_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hhiepz&theme=nord_dark&utcOffset=7)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hhiepz&theme=dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hhiepz&theme=dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hhiepz&theme=dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hhiepz&theme=dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hhiepz&theme=dark&utcOffset=7)
 </details>
 
 <details open>
