@@ -31,7 +31,7 @@ A passionate developer focused on creating efficient and scalable web applicatio
 
   <h2 align="center">📊 GitHub Activity Graph</h2>
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hhiepz)
+  <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hhiepz) -->
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hhiepz&bg_color=0d1117&color=5bcdec&line=f00000&point=00fbff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <details>
   <summary>📊GitHub Stats</summary>
