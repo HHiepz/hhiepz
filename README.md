@@ -37,8 +37,12 @@ A passionate developer focused on creating efficient and scalable web applicatio
 <details>
   <summary>📊GitHub Stats</summary>
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hhiepz&theme=dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hhiepz&theme=dark)
-  <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hhiepz&theme=dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hhiepz&theme=dark&utcOffset=7) -->
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=HHiepz&theme=great-gatsby&show_icons=true&hide_border=true&count_private=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HHiepz&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact" />
+  </div>
+  <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hhiepz&theme=dark) -->
+  <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hhiepz&theme=dark) -->
+  <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hhiepz&theme=dark) -->
+  <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hhiepz&theme=dark&utcOffset=7) -->
 </details>
