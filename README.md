@@ -1,4 +1,6 @@
-### Huu Hiep | Web Developer
+### Huu Hiep | Web Developer 
+
+![Profile Views](https://komarev.com/ghpvc/?username=HHiepz&style=flat-square)
 
 A passionate developer focused on creating efficient and scalable web applications. My core interest lies in backend development with Laravel and exploring automation scripts with Python.
 
